@@ -1,0 +1,2 @@
+rootProject.name='GolfScoreReminder'
+include ':app'
